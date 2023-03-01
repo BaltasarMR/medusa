@@ -1,0 +1,2 @@
+pip3 install -r requirements.txt
+/usr/bin/python3 /home/alpha7/Convert_mdb/convert.py

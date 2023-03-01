@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+psycopg2
+tkinter
+mysql.connector
+mysql
